@@ -10,10 +10,10 @@ This project performs a Stochastic Gradient Descent Model (Scikit-learn) and an 
 
 ## Instructions
 1. Open [Google Colab](https://colab.research.google.com/).
-2. Click **File → Upload notebook** and select `Notebook.ipynb`.
-3. Make sure you are connected to a runtime.
-4. Run all cells sequentially. All necessary libraries are already imported and installed within the notebook.
-5. The report includes all plots, diagnostics, and interpretations.
+2. Click **File → Upload notebook** and select `CS 4372 Assignment 1.ipynb`.
+4. Make sure you are connected to a runtime.
+5. Run all cells sequentially. All necessary libraries are already imported and installed within the notebook.
+6. The report includes all plots, diagnostics, and interpretations.
 
 ## Notes
 - No additional setup is required.
